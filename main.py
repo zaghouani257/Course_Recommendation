@@ -25,7 +25,7 @@ def recommend(course):
     return recommended_course_names
 
 st.markdown("<h2 style='text-align: center; color: blue;'>Course Recommendation System</h2>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center; color: black;'>Web App created by Zaghouani Wael</h4>", unsafe_allow_html=True)
+
 
 course_list = courses_list['course_name'].values
 selected_course = st.selectbox(
