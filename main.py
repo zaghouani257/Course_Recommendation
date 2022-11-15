@@ -1,4 +1,4 @@
-# Coursera Course Recommendation System (@ Author : Sagar Bapodara)
+# Coursera Course Recommendation System 
 
 # <==== Importing Dependencies ====>
 
